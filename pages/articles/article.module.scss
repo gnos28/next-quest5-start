@@ -1,0 +1,27 @@
+.navlink {
+  display: block;
+  color: blue;
+}
+
+.articleListContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.gendate {
+  font-size: x-small;
+}
+
+.imageContainer {
+  position: relative;
+  height: 300px;
+  width: 70vw;
+  overflow: hidden;
+  background-color: black;
+}
+
+.divContainer {
+  width: 70vw;
+}
